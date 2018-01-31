@@ -1,0 +1,3 @@
+class Queue {
+	Queue front;
+}
